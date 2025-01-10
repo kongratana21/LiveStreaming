@@ -1,0 +1,4 @@
+ * What's new
+   + Update new server
+   + Update Menu bar
+   + Fix something error
