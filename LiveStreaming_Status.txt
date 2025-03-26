@@ -1,4 +1,5 @@
  * What's new
-   + Check the license key for this tool or not.
-   + Add 40 new Khmer fonts.
+   + Add live with combine video files
+   + Add new themes
+   + Add video filter (Contrast, Brightness, Saturation, Gamma)
    + Fix something error
