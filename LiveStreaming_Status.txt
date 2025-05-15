@@ -1,6 +1,7 @@
  * What's new
    + Add Translate File Names
    + Add Sound effects
+   + Add Preview view before Live
    + Add Recovery secret word by email
    + Update live stream by video link
    + Fix something error
