@@ -1,5 +1,6 @@
  * What's new
-   + Add live with combine video files
-   + Add new themes
-   + Add video filter (Contrast, Brightness, Saturation, Gamma)
+   + Add Translate File Names
+   + Add Sound effects
+   + Add Recovery secret word by email
+   + Update live stream by video link
    + Fix something error
