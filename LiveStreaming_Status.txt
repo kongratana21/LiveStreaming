@@ -1,3 +1,4 @@
  * What's new
+   + Fix Time of Stream
    + Update live stream by video link and live video link
    + Fix something error
